@@ -10,7 +10,7 @@ Menguasai **AI Engineering & Data Science** dalam 1 tahun dengan pendekatan **be
 - ⏱️ Waktu belajar: 20.00 – 23.00 (fleksibel jika ingin lebih lama)  
 - 📒 Dokumentasi: catatan harian (`notes.md`), latihan (`exercise.py`), project mini/akhir (`projects/`)  
 - 📂 Struktur folder:  
-
+```
 AI-Engineer-Study/
 ├── 01-OOP/
 ├── 02-Math-Linear-Algebra/
@@ -21,6 +21,7 @@ AI-Engineer-Study/
 ├── 07-NLP-ComputerVision/
 ├── 08-Deployment-MLOps/
 └── 09-Capstone-Projects/
+```
 ---
 ```yaml
 ## 📌 Roadmap & Progress Checklist  
