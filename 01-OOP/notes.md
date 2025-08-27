@@ -1,4 +1,4 @@
-# 📒 Catatan Belajar – Hari 1
+# 📒 Notes – Day 1
 
 ## 1. Identitas
 - 📅 Tanggal: 27 Agustus 2025
