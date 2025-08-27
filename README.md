@@ -1,15 +1,15 @@
 
 # 📘 AI Engineer & Data Science Study Roadmap  
 
-## 🎯 Tujuan
-Menguasai **AI Engineering & Data Science** dalam 1 tahun dengan pendekatan **belajar harian (3 jam)** + dokumentasi rapi untuk portofolio.  
+## 🎯 Goal
+Master **AI Engineering & Data Science** in 1 year with a **daily study approach (3 hours)** + well-documented portfolio.  
 
 ---
 
-## 📅 Struktur Belajar
-- ⏱️ Waktu belajar: 20.00 – 23.00 (fleksibel jika ingin lebih lama)  
-- 📒 Dokumentasi: catatan harian (`notes.md`), latihan (`exercise.py`), project mini/akhir (`projects/`)  
-- 📂 Struktur folder:  
+## 📅 Study Structure
+- ⏱️ Study time: 20.00 – 23.00 (flexible if you want to go longer)  
+- 📒 Documentation: daily notes (`notes.md`), exercises (`exercise.py`), mini/final projects (`projects/`)  
+- 📂 Folder structure:  
 ```
 AI-Engineer-Study/
 ├── 01-OOP/
@@ -26,63 +26,63 @@ AI-Engineer-Study/
 ```yaml
 ## 📌 Roadmap & Progress Checklist  
 
-### 1. Python & OOP (2 Minggu)
-- [ ] Dasar OOP: Class & Object  
+### 1. Python & OOP (2 Weeks)
+- [ ] OOP Basics: Class & Object  
 - [ ] Inheritance, Encapsulation, Polymorphism  
 - [ ] Error Handling & File Handling  
-- [ ] Project Mini: Sistem Manajemen Data Sederhana  
+- [ ] Mini Project: Simple Data Management System  
 
-### 2. Matematika untuk AI (4 Minggu)
-- [ ] Linear Algebra (Vektor, Matriks, Transformasi)  
-- [ ] Kalkulus (Turunan, Integral, Optimisasi)  
-- [ ] Statistik & Probabilitas untuk Data Science  
-- [ ] Project Mini: Visualisasi fungsi & distribusi data  
+### 2. Math for AI (4 Weeks)
+- [ ] Linear Algebra (Vectors, Matrices, Transformations)  
+- [ ] Calculus (Derivatives, Integrals, Optimization)  
+- [ ] Statistics & Probability for Data Science  
+- [ ] Mini Project: Visualization of functions & data distributions  
 
-### 3. Data Handling & Visualization (3 Minggu)
+### 3. Data Handling & Visualization (3 Weeks)
 - [ ] Pandas, Numpy, Matplotlib, Seaborn  
 - [ ] Data Cleaning, Exploratory Data Analysis (EDA)  
-- [ ] Project Mini: Analisis dataset publik  
+- [ ] Mini Project: Public dataset analysis  
 
-### 4. Machine Learning (6 Minggu)
+### 4. Machine Learning (6 Weeks)
 - [ ] Supervised Learning (Regression, Classification)  
 - [ ] Unsupervised Learning (Clustering, Dimensionality Reduction)  
 - [ ] Model Evaluation (Confusion Matrix, ROC, Cross-validation)  
-- [ ] Project Mini: Predictive Modeling  
+- [ ] Mini Project: Predictive Modeling  
 
-### 5. Deep Learning (6 Minggu)
+### 5. Deep Learning (6 Weeks)
 - [ ] Neural Networks (Forward/Backward Propagation)  
-- [ ] Frameworks: TensorFlow & PyTorch dasar  
+- [ ] Frameworks: TensorFlow & basic PyTorch  
 - [ ] CNN, RNN, LSTM  
-- [ ] Project Mini: Image Classifier / Text Generator  
+- [ ] Mini Project: Image Classifier / Text Generator  
 
-### 6. NLP & Computer Vision (4 Minggu)
+### 6. NLP & Computer Vision (4 Weeks)
 - [ ] Text Preprocessing, Word Embeddings  
-- [ ] Transformers & BERT dasar  
-- [ ] CV dengan CNN + Transfer Learning  
-- [ ] Project Mini: Sentiment Analysis / Image Recognition  
+- [ ] Transformers & basic BERT  
+- [ ] CV with CNN + Transfer Learning  
+- [ ] Mini Project: Sentiment Analysis / Image Recognition  
 
-### 7. Deployment & MLOps (3 Minggu)
-- [ ] REST API untuk model (FastAPI/Flask)  
-- [ ] Docker & CI/CD dasar  
-- [ ] Monitoring model di production  
-- [ ] Project Mini: Deploy model ke cloud  
+### 7. Deployment & MLOps (3 Weeks)
+- [ ] REST API for models (FastAPI/Flask)  
+- [ ] Basic Docker & CI/CD  
+- [ ] Model monitoring in production  
+- [ ] Mini Project: Deploy model to cloud  
 
-### 8. Capstone Projects (4 Minggu)
-- [ ] Data Science Capstone: Analisis dataset besar  
-- [ ] AI Engineering Capstone: Bangun & deploy end-to-end model  
-- [ ] Dokumentasi + Portofolio (GitHub + Blog/LinkedIn)  
-
----
-
-## 📊 Tracking Harian
-Setiap hari update di `notes.md`:  
-- 📌 Topik: …  
-- 🎯 Tujuan belajar: …  
-- 📝 Ringkasan materi: …  
-- 💻 Latihan kode: …  
-- 🔮 Insight/refleksi: …  
+### 8. Capstone Projects (4 Weeks)
+- [ ] Data Science Capstone: Large dataset analysis  
+- [ ] AI Engineering Capstone: Build & deploy end-to-end model  
+- [ ] Documentation + Portfolio (GitHub + Blog/LinkedIn)  
 
 ---
 
-⚡ Catatan: Checklist ini akan terus di-update seiring progres. Kalau satu topik selesai → langsung centang ✅.  
+## 📊 Daily Tracking
+Update `notes.md` every day:  
+- 📌 Topic: …  
+- 🎯 Learning goal: …  
+- 📝 Material summary: …  
+- 💻 Coding exercise: …  
+- 🔮 Insights/reflection: …  
+
+---
+
+⚡ Note: This checklist will keep updating as progress goes. Once a topic is done → tick it ✅.  
 ```
