@@ -1,4 +1,4 @@
-# Mini Project Hari Ini
+# Today's Mini Project
 # Class Book
 
 class Book:

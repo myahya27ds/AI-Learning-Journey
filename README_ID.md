@@ -27,7 +27,7 @@ AI-Engineer-Study/
 ## 📌 Roadmap & Progress Checklist  
 
 ### 1. Python & OOP (2 Minggu)
-- [ ] Dasar OOP: Class & Object  
+- ✅ Dasar OOP: Class & Object  
 - [ ] Inheritance, Encapsulation, Polymorphism  
 - [ ] Error Handling & File Handling  
 - [ ] Project Mini: Sistem Manajemen Data Sederhana  
